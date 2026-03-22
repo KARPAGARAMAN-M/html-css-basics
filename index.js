@@ -1,1 +1,1 @@
-let heading=document.getElemetById"h1"
+console.log("This is my first github tutorial")
